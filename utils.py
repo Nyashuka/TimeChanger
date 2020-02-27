@@ -8,7 +8,7 @@ def get_current_time():
 
 
 def generate_image(text):
-    image = Image.open("resources/time.jpg")
+    image = Image.open("time.jpg")
     W, H = image.size
     draw = ImageDraw.Draw(image)
 
