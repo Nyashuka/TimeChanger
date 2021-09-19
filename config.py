@@ -1,3 +1,3 @@
-api_id = 1031395
-api_hash = '4bd9016a92286cc47404f14be00b1e8c'
+api_id = 10313
+api_hash = '4bd9016a92286cc4740f'
 session_name = 'session'
